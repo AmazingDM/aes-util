@@ -3,7 +3,7 @@ package com.github.pandachanv587.aesutil;
 public enum AESOperationMode {
 
     CBC("CBC"),
-    EBC("ECB"),
+    ECB("ECB"),
     DEFAULT("CBC");
 
     private String value;
